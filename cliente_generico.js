@@ -27,3 +27,20 @@ ricardo.depositarPoupanca(34)
 
 console.log(ricardo.saldo)
 console.log(ricardo.saldoPoupanca)
+
+/**
+Info: Start process (4:49:40 PM)
+ClientePoupanca {
+  nome: 'Ricardo',
+  cpf: '35498338466',
+  email: 'ricardoaltmann54@gmail.com',
+  saldo: 100,
+  depositar: [Function (anonymous)],
+  saldoPoupanca: 200
+}
+Saldo:
+135
+SaldoPoupanca:
+234
+Info: End process (4:49:40 PM)
+ */
